@@ -1,0 +1,23 @@
+# Generated packages
+*.zip
+
+# Microsoft Edge Add-ons submission materials stay local only
+submission/
+
+# Legacy artwork is intentionally excluded
+icon.png
+
+# Local secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local tool output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db
