@@ -38,7 +38,7 @@
     button.id = 'bili-heytea-btn';
     button.className = 'bili-heytea-float-btn';
     button.title = '下载字幕';
-    button.innerHTML = `<svg class="icon" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" width="27" height="27" aria-hidden="true"><rect x="44" y="62" width="384" height="288" rx="56" fill="#ffffff" stroke="#7b7f82" stroke-width="20"/><path d="M201 146a60 60 0 1 0 0 120" fill="none" stroke="#7b7f82" stroke-width="22" stroke-linecap="round"/><path d="M331 146a60 60 0 1 0 0 120" fill="none" stroke="#7b7f82" stroke-width="22" stroke-linecap="round"/><circle cx="410" cy="341" r="74" fill="#ffffff" stroke="#7b7f82" stroke-width="16"/><path d="M410 296.6v57.3m-24.1-24.1 24.1 24.1 24.1-24.1" fill="none" stroke="#7b7f82" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/><rect x="378.6" y="374.3" width="62.9" height="11.8" rx="5.9" fill="#7b7f82"/></svg>`;
+    button.innerHTML = `<svg class="icon" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" width="27" height="27" aria-hidden="true"><rect x="64" y="112" width="384" height="288" rx="56" fill="#ffffff" stroke="#7b7f82" stroke-width="27"/><path d="M221 196a60 60 0 1 0 0 120" fill="none" stroke="#7b7f82" stroke-width="25" stroke-linecap="round"/><path d="M351 196a60 60 0 1 0 0 120" fill="none" stroke="#7b7f82" stroke-width="25" stroke-linecap="round"/><circle cx="420" cy="391" r="74" fill="#ffffff" stroke="#7b7f82" stroke-width="21.6"/><path d="M420 346.6v57.3m-24.1-24.1 24.1 24.1 24.1-24.1" fill="none" stroke="#7b7f82" stroke-width="18.9" stroke-linecap="round" stroke-linejoin="round"/><rect x="388.6" y="424.3" width="62.9" height="11.8" rx="5.9" fill="#7b7f82"/></svg>`;
     document.body.appendChild(button);
 
     panel = document.createElement('div');

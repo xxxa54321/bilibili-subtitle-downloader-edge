@@ -4,7 +4,7 @@
 
 ## 下载
 
-[下载 B站字幕下载 v1.3.2](https://github.com/xxxa54321/bilibili-subtitle-downloader-edge/releases/tag/v1.3.2)
+[下载 B站字幕下载 v1.3.3](https://github.com/xxxa54321/bilibili-subtitle-downloader-edge/releases/tag/v1.3.3)
 
 ## 功能
 
